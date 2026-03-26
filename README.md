@@ -51,8 +51,8 @@ src/
  train.py
  predict.py
 app.py
+requirements.txt
 README.md
-requirements.txt  
 
 ---
 ## How to Run
@@ -89,7 +89,7 @@ streamlit run app.py
 ```
 ---
 
-## Eample
+## Example
 
 ---
 
@@ -137,3 +137,9 @@ Do ONLY these:
 2. Run:
 ```bash
 pip freeze > requirements.txt
+```
+
+---
+
+## App Demo
+![App Screenshot](appdemo.jpeg)
