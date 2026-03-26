@@ -142,4 +142,4 @@ pip freeze > requirements.txt
 ---
 
 ## App Demo
-![App Screenshot](appdemo.jpeg)
+![App Screenshot](Appdemo.jpeg)
